@@ -11,5 +11,5 @@ langchain-google-genai
 ipywidgets
 widgetsnbextension
 pandas-profiling
-langchain-google-genai<br>
+langchain-google-genai
 langchain_experimental
